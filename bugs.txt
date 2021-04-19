@@ -1,1 +1,0 @@
-ne reconnait pas les anciens trusts, surement problème avec la façon dont python écrit dans un fichier. Faire des tests, peut etre écrire sous forme d'un tab ?
