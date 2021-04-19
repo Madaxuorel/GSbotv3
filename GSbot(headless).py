@@ -146,4 +146,4 @@ def main(client):
         
 client = discord.Client()
 main(client)
-client.run('ODI5MTE2NjM4MDI3NzEwNDc1.YGzdCg.I3VgOgX-MyWzlvPN5mxvz2thL-k')#Private token
+client.run(TOKEN)#Private token
