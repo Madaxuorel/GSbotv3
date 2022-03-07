@@ -1,2 +1,2 @@
 # GSbotv3
-3rd version of the bot, stores trusts locally
+Bot de Webscrapping en python pour aller chercher des donnés financières sur les trusts grayscale
